@@ -1,0 +1,11 @@
+Assignment_tutorial.ipynb
+
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+tmp/
+
+.DS_Store
+Thumbs.db
